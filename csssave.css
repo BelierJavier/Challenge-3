@@ -1,0 +1,13 @@
+body{
+	background-color: orange;
+}
+
+#enter{
+	font-size: 30px;
+	color: white;
+	font-family: "impact" ;
+}
+
+#challenge{
+	position: center;
+}
